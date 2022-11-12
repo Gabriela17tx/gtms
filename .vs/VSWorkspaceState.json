@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Domain",
+    "\\Domain\\Interfaces",
+    "\\Domain\\Interfaces\\Generics",
+    "\\Entities\\Entities",
+    "\\Entities\\Notifications"
+  ],
+  "SelectedNode": "\\Domain\\Interfaces\\Generics\\IGeneric.cs",
+  "PreviewInSolutionExplorer": false
+}
